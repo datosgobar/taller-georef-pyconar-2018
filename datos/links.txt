@@ -1,3 +1,4 @@
 http://datos.jus.gob.ar/dataset/1f8efcc5-5928-41d5-b211-4729247c968c/resource/37d97860-df65-4bff-bed7-0896f01caa1b/download/denuncias-rencap-2018-10-02.csv
 http://datos.minem.gob.ar/dataset/ac7f614e-622e-43d1-b480-7af68ef9d881/resource/d8c52e77-ce85-4207-838f-6ecc7ba9ec04/download/geologa-climatologa-yacimientos-minerales.csv
 http://datos.jus.gob.ar/dataset/9775fcdf-99b9-47f6-87ae-6d46cfd15b40/resource/906a1daf-cb0c-4765-98d4-40b0f8caf48b/download/centros-acceso-justicia-activos.csv
+http://datos.minem.gob.ar/dataset/5ce77ad1-c729-42cd-a8b5-2407de005e5b/resource/0df1eeda-854b-44b0-8ea6-1a537f167fa4/download/bioetanol.csv
