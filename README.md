@@ -1,4 +1,4 @@
-# taller-georef-pyconar-2018
+# Taller PyConAr 2018 - API Georef
 Archivos para el taller de PyConAr 2018: "Normalizá datos con la nueva API del Servicio de Normalización de Datos Geográficos".
 
 ## Instalación
