@@ -13,4 +13,4 @@ $ source env/bin/activate
 (env) $ jupyter notebook pyconar.ipynb
 ```
 ## Archivos
-El directorio `img` contiene algunas imágenes utilizadas en la Jupyter Notebook. En el directorio `datos` están los archivos CSV que se utilizan en el taller (pueden ser redescargados ejecutando `make download_files`).
+El directorio `img` contiene algunas imágenes utilizadas en la Jupyter Notebook. En el directorio `datos` están los archivos CSV que se utilizan en el taller (pueden ser redescargados ejecutando `make download_files`). La presentación utilizada durante el taller se encuentra en [`doc/presentacion.pdf`](doc/presentacion.pdf).
